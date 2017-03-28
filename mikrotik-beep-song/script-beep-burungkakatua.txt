@@ -1,0 +1,51 @@
+# Mikrotik beep song "Burung Kakatua"
+# Wahyu Wijanarko - http://wahyu.com
+# Composed @ Jayapura, 28 March 2017
+:beep frequency=783.99 length=500ms
+:delay 500ms;
+:beep frequency=783.99 length=1000ms
+:delay 1000ms;
+:beep frequency=659.25 length=500ms
+:delay 500ms;
+:beep frequency=1046.50 length=1000ms
+:delay 1000ms;
+:beep frequency=659.25  length=500ms
+:delay 500ms;
+:beep frequency=587.33 length=1000ms
+:delay 2000ms;
+:beep frequency=659.25 length=500ms
+:delay 500ms;
+:beep frequency=698.46 length=1000ms
+:delay 1000ms;
+:beep frequency=880.00 length=500ms
+:delay 500ms;
+:beep frequency=783.99 length=1000ms
+:delay 1000ms;
+:beep frequency=698.46 length=500ms
+:delay 500ms;
+:beep frequency=659.25 length=1000ms
+:delay 2000ms;
+:beep frequency=783.99 length=500ms
+:delay 500ms;
+:beep frequency=783.99 length=1000ms
+:delay 1000ms;
+:beep frequency=659.25 length=500ms
+:delay 500ms;
+:beep frequency=1046.50 length=1000ms
+:delay 1000ms;
+:beep frequency=659.25  length=500ms
+:delay 500ms;
+:beep frequency=587.33 length=1000ms
+:delay 2000ms;
+:beep frequency=1046.50 length=500ms
+:delay 500ms;
+:beep frequency=987.77 length=1000ms
+:delay 1000ms;
+:beep frequency=783.99 length=500ms
+:delay 500ms;
+:beep frequency=880.00 length=1000ms
+:delay 1000ms;
+:beep frequency=987.77  length=500ms
+:delay 500ms;
+:beep frequency=1046.50 length=1000ms
+:delay 2000ms;

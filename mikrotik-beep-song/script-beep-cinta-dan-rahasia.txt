@@ -1,0 +1,123 @@
+# Yura Yunita ft. Glenn Fredly - Cinta dan Rahasia
+# Converted to MikroTik beep by Wahyu Wijanarko - http://wahyu.com
+# On 18 March 2017 @ Jayapura
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=1000ms frequency=530.39
+:delay 1200ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=500ms frequency=794.68
+:delay 600ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=707.98
+:delay 600ms
+:beep length=500ms frequency=530.39
+:delay 600ms
+:beep length=500ms frequency=794.68
+:delay 600ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=707.98
+:delay 600ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=250ms frequency=595.34
+:delay 300ms
+:beep length=1000ms frequency=668.24
+:delay 1200ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=668.24
+:delay 600ms
+:beep length=250ms frequency=595.34
+:delay 300ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=500ms frequency=530.39
+:delay 600ms
+:beep length=500ms frequency=668.24
+:delay 600ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=500ms frequency=530.39
+:delay 600ms
+:beep length=1000ms frequency=595.34
+:delay 1200ms
+:beep length=500ms frequency=892.00
+:delay 600ms
+:beep length=1500ms frequency=794.68
+:delay 1800ms
+:beep length=250ms frequency=794.68
+:delay 300ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=707.98
+:delay 600ms
+:beep length=1000ms frequency=530.39
+:delay 1200ms
+:beep length=250ms frequency=794.68
+:delay 300ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=707.98
+:delay 600ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=250ms frequency=595.34
+:delay 300ms
+:beep length=1000ms frequency=668.24
+:delay 1200ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=668.24
+:delay 600ms
+:beep length=250ms frequency=595.34
+:delay 300ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=500ms frequency=530.39
+:delay 600ms
+:beep length=500ms frequency=668.24
+:delay 600ms
+:beep length=250ms frequency=707.98
+:delay 300ms
+:beep length=250ms frequency=668.24
+:delay 300ms
+:beep length=500ms frequency=595.34
+:delay 600ms
+:beep length=250ms frequency=530.39
+:delay 300ms
+:beep length=250ms frequency=500.62
+:delay 300ms
+:beep length=1000ms frequency=530.39
+:delay 1200ms

@@ -1,0 +1,86 @@
+# Mikrotik beep song "Apose"
+# Wahyu Wijanarko - http://wahyu.com
+# Composed @ Jayapura, 5 March 2017
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=1046.50
+:delay 350ms
+:beep length=300ms frequency=1318.51
+:delay 700ms
+:beep length=300ms frequency=1174.66
+:delay 175ms
+:beep length=300ms frequency=1318.51
+:delay 350ms
+:beep length=300ms frequency=1174.66
+:delay 175ms
+:beep length=300ms frequency=1046.50
+:delay 700ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=1046.50
+:delay 350ms
+:beep length=300ms frequency=1318.51
+:delay 700ms
+:beep length=300ms frequency=1318.51
+:delay 175ms
+:beep length=300ms frequency=1174.66
+:delay 175ms
+:beep length=300ms frequency=1318.51
+:delay 175ms
+:beep length=300ms frequency=1396.91
+:delay 175ms
+:beep length=300ms frequency=1174.66
+:delay 700ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=987.77
+:delay 350ms
+:beep length=300ms frequency=1174.66
+:delay 700ms
+:beep length=300ms frequency=1396.91
+:delay 175ms
+:beep length=300ms frequency=1567.98
+:delay 350ms
+:beep length=300ms frequency=1396.91
+:delay 175ms
+:beep length=300ms frequency=1318.51
+:delay 700ms
+:beep length=300ms frequency=1174.66
+:delay 175ms
+:beep length=300ms frequency=1318.51
+:delay 350ms
+:beep length=300ms frequency=1174.66
+:delay 175ms
+:beep length=300ms frequency=1046.50
+:delay 1400ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=1046.50
+:delay 350ms
+:beep length=300ms frequency=1396.91
+:delay 350ms
+:beep length=600ms frequency=1318.51
+:delay 1400ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=987.77
+:delay 350ms
+:beep length=300ms frequency=1174.66
+:delay 350ms
+:beep length=600ms frequency=1046.50
+:delay 1400ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=1046.50
+:delay 350ms
+:beep length=300ms frequency=1396.91
+:delay 350ms
+:beep length=600ms frequency=1318.51
+:delay 1400ms
+:beep length=300ms frequency=783.99
+:delay 350ms
+:beep length=300ms frequency=987.77
+:delay 350ms
+:beep length=300ms frequency=1174.66
+:delay 350ms
+:beep length=600ms frequency=1046.50
