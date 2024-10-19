@@ -1,0 +1,113 @@
+:beep length=400ms frequency=523.25
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=523.25
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=587.33
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=587.33
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=523.25
+:delay 250ms
+:beep length=400ms frequency=1046.50
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=698.46
+:delay 250ms
+:beep length=400ms frequency=1396.91
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=400ms frequency=1318.51
+:delay 250ms
+:beep length=400ms frequency=783.99
+:delay 250ms
+:beep length=1000ms frequency=523.25
